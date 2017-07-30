@@ -1,7 +1,6 @@
 d:\dokumente\visual studio 2017\Projects\Mario Luigi Dream Team Bros Save Editor\Mario Luigi Dream Team Bros Save Editor\bin\Debug\Mario Luigi Dream Team Bros Save Editor.exe.config
 d:\dokumente\visual studio 2017\Projects\Mario Luigi Dream Team Bros Save Editor\Mario Luigi Dream Team Bros Save Editor\bin\Debug\Mario Luigi Dream Team Bros Save Editor.exe
 d:\dokumente\visual studio 2017\Projects\Mario Luigi Dream Team Bros Save Editor\Mario Luigi Dream Team Bros Save Editor\bin\Debug\Mario Luigi Dream Team Bros Save Editor.pdb
-d:\dokumente\visual studio 2017\Projects\Mario Luigi Dream Team Bros Save Editor\Mario Luigi Dream Team Bros Save Editor\obj\Debug\Mario Luigi Dream Team Bros Save Editor.csprojResolveAssemblyReference.cache
 d:\dokumente\visual studio 2017\Projects\Mario Luigi Dream Team Bros Save Editor\Mario Luigi Dream Team Bros Save Editor\obj\Debug\Mario_Luigi_Dream_Team_Bros_Save_Editor.Form1.resources
 d:\dokumente\visual studio 2017\Projects\Mario Luigi Dream Team Bros Save Editor\Mario Luigi Dream Team Bros Save Editor\obj\Debug\Mario_Luigi_Dream_Team_Bros_Save_Editor.Properties.Resources.resources
 d:\dokumente\visual studio 2017\Projects\Mario Luigi Dream Team Bros Save Editor\Mario Luigi Dream Team Bros Save Editor\obj\Debug\Mario Luigi Dream Team Bros Save Editor.csproj.GenerateResource.Cache
